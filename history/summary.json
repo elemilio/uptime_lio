@@ -1,7 +1,7 @@
 [
   {
     "name": "bcn.cat",
-    "url": "http://bcn.cat",
+    "url": "https://bcn.cat",
     "icon": "https://favicons.githubusercontent.com/bcn.cat",
     "slug": "bcn-cat",
     "status": "up",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1438,
-    "timeDay": 1438,
-    "timeWeek": 1438,
-    "timeMonth": 1438,
-    "timeYear": 1438,
+    "time": 1626,
+    "timeDay": 1626,
+    "timeWeek": 1626,
+    "timeMonth": 1626,
+    "timeYear": 1626,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 153,
-    "timeDay": 153,
-    "timeWeek": 153,
-    "timeMonth": 153,
-    "timeYear": 153,
+    "time": 126,
+    "timeDay": 126,
+    "timeWeek": 126,
+    "timeMonth": 126,
+    "timeYear": 126,
     "dailyMinutesDown": {}
   }
 ]
