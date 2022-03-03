@@ -9,6 +9,8 @@ sites:
     url: https://espaidocs.bcn.cat
   - name: Comunitats (HumHub)
     url: https://comunitats.bcn.cat/index.php?r=user%2Fauth%2Flogin
+  - name: GitLab DTI
+    url: https://gitlab.dtibcn.cat/users/sign_in
 
 assignees:
   - elemilio
