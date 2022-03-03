@@ -5,8 +5,10 @@ repo: uptime_lio # The name of this repository
 sites:
   - name: bcn.cat
     url: https://bcn.cat
-  - name: Wikipedia
-    url: https://en.wikipedia.org
+  - name: Espaidocs (Owncloud)
+    url: https://espaidocs.bcn.cat
+  - name: Comunitats (HumHub)
+    url: https://comunitats.bcn.cat
 
 assignees:
   - elemilio
