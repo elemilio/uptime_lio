@@ -8,7 +8,7 @@ sites:
   - name: Espaidocs (Owncloud)
     url: https://espaidocs.bcn.cat
   - name: Comunitats (HumHub)
-    url: https://comunitats.bcn.cat
+    url: https://comunitats.bcn.cat/index.php?r=user%2Fauth%2Flogin
 
 assignees:
   - elemilio
