@@ -41,18 +41,16 @@
     "icon": "https://favicons.githubusercontent.com/comunitats.bcn.cat",
     "slug": "comunitats-hum-hub",
     "status": "up",
-    "uptime": "1.45%",
-    "uptimeDay": "1.45%",
-    "uptimeWeek": "1.45%",
-    "uptimeMonth": "1.45%",
-    "uptimeYear": "1.45%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 789,
     "timeDay": 789,
     "timeWeek": 789,
     "timeMonth": 789,
     "timeYear": 789,
-    "dailyMinutesDown": {
-      "2022-03-03": 6
-    }
+    "dailyMinutesDown": {}
   }
 ]
