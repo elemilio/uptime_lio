@@ -5,6 +5,7 @@ repo: uptime_lio # The name of this repository
 sites:
   - name: bcn.cat
     url: https://bcn.cat
+    icon: https://www.barcelona.cat/favicon.ico
   - name: Espaidocs (Owncloud)
     url: https://espaidocs.bcn.cat
   - name: Comunitats (HumHub)
