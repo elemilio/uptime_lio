@@ -37,9 +37,6 @@ status-website:
   name: My Status Website
   introTitle: "Status Canals Digitals"
   introMessage: Status page
-  navbar:
-    - title: Home
-      href: /
 
   theme: light
 
