@@ -15,11 +15,11 @@ sites:
   - name: GitLab DTI
     url: https://gitlab.dtibcn.cat/users/sign_in
     icon: https://gitlab.dtibcn.cat/assets/favicon-7901bd695fb93edb07975966062049829afb56cf11511236e61bcf425070e36e.png
-  - name: ERROR TEST 3
-    url: https://gitlab.dtdibfg4cnfdsfds.com
+  - name: ERROR TEST 4
+    url: https://gitlab.fdsfds.com
 
 assignees:
-  - elemilio
+  - emiliobaena
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
