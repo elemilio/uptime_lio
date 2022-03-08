@@ -27,6 +27,8 @@ sites:
   - name: API Casaments
     url: https://api-casaments.bcn.cat/node.json?type=disponibilitat%26field_districte=4%26load-entity-refs=node%2Cfile%2Ctaxonomy_term%26max-depth=1
     icon: https://www.barcelona.cat/favicon.ico
+    expectedStatusCodes:
+      - 403
   - name: BCN Cultura
     url: https://www.barcelona.cat/barcelonacultura/ca
     icon: https://www.barcelona.cat/favicon.ico
