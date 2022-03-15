@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 2400,
     "timeDay": 4424,
-    "timeWeek": 2673,
+    "timeWeek": 2733,
     "timeMonth": 2400,
     "timeYear": 2400,
     "dailyMinutesDown": {}
@@ -22,18 +22,20 @@
     "url": "https://espaidocs.bcn.cat",
     "icon": "https://espaidocs.bcn.cat/core/img/favicon.ico",
     "slug": "espaidocs-owncloud",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2115,
     "timeDay": 1537,
-    "timeWeek": 1987,
+    "timeWeek": 1469,
     "timeMonth": 2115,
     "timeYear": 2115,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-15": 0
+    }
   },
   {
     "name": "Comunitats (HumHub)",
@@ -48,7 +50,7 @@
     "uptimeYear": "100.00%",
     "time": 961,
     "timeDay": 1113,
-    "timeWeek": 905,
+    "timeWeek": 922,
     "timeMonth": 961,
     "timeYear": 961,
     "dailyMinutesDown": {}
@@ -59,14 +61,14 @@
     "icon": "https://gitlab.dtibcn.cat/assets/favicon-7901bd695fb93edb07975966062049829afb56cf11511236e61bcf425070e36e.png",
     "slug": "git-lab-dti",
     "status": "up",
-    "uptime": "99.88%",
+    "uptime": "99.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.88%",
-    "uptimeYear": "99.88%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
     "time": 650,
     "timeDay": 890,
-    "timeWeek": 684,
+    "timeWeek": 693,
     "timeMonth": 650,
     "timeYear": 650,
     "dailyMinutesDown": {
@@ -86,7 +88,7 @@
     "uptimeYear": "100.00%",
     "time": 1820,
     "timeDay": 2243,
-    "timeWeek": 1521,
+    "timeWeek": 1075,
     "timeMonth": 1820,
     "timeYear": 1820,
     "dailyMinutesDown": {}
@@ -104,7 +106,7 @@
     "uptimeYear": "100.00%",
     "time": 1294,
     "timeDay": 2892,
-    "timeWeek": 908,
+    "timeWeek": 941,
     "timeMonth": 1294,
     "timeYear": 1294,
     "dailyMinutesDown": {}
@@ -122,7 +124,7 @@
     "uptimeYear": "100.00%",
     "time": 1458,
     "timeDay": 1942,
-    "timeWeek": 1446,
+    "timeWeek": 1456,
     "timeMonth": 1458,
     "timeYear": 1458,
     "dailyMinutesDown": {}
@@ -140,7 +142,7 @@
     "uptimeYear": "100.00%",
     "time": 772,
     "timeDay": 1029,
-    "timeWeek": 772,
+    "timeWeek": 777,
     "timeMonth": 772,
     "timeYear": 772,
     "dailyMinutesDown": {}
@@ -158,7 +160,7 @@
     "uptimeYear": "100.00%",
     "time": 484,
     "timeDay": 360,
-    "timeWeek": 484,
+    "timeWeek": 478,
     "timeMonth": 484,
     "timeYear": 484,
     "dailyMinutesDown": {}
