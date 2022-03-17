@@ -4,19 +4,19 @@
     "url": "https://bcn.cat",
     "icon": "https://www.barcelona.cat/favicon.ico",
     "slug": "bcn-cat",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2415,
-    "timeDay": 3250,
-    "timeWeek": 2875,
-    "timeMonth": 2415,
-    "timeYear": 2415,
+    "status": "up",
+    "uptime": "99.82%",
+    "uptimeDay": "97.56%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.82%",
+    "time": 2421,
+    "timeDay": 2968,
+    "timeWeek": 2857,
+    "timeMonth": 2421,
+    "timeYear": 2421,
     "dailyMinutesDown": {
-      "2022-03-17": 0
+      "2022-03-17": 35
     }
   },
   {
