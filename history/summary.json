@@ -10,11 +10,11 @@
     "uptimeWeek": "99.65%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.83%",
-    "time": 2421,
-    "timeDay": 2968,
-    "timeWeek": 2857,
-    "timeMonth": 2421,
-    "timeYear": 2421,
+    "time": 2404,
+    "timeDay": 2166,
+    "timeWeek": 2727,
+    "timeMonth": 2404,
+    "timeYear": 2404,
     "dailyMinutesDown": {
       "2022-03-17": 35
     }
@@ -25,19 +25,17 @@
     "icon": "https://espaidocs.bcn.cat/core/img/favicon.ico",
     "slug": "espaidocs-owncloud",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 2053,
-    "timeDay": 1560,
-    "timeWeek": 1504,
-    "timeMonth": 2053,
-    "timeYear": 2053,
-    "dailyMinutesDown": {
-      "2022-03-17": 7
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 2033,
+    "timeDay": 1532,
+    "timeWeek": 1458,
+    "timeMonth": 2033,
+    "timeYear": 2033,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Comunitats (HumHub)",
@@ -50,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 962,
-    "timeDay": 947,
-    "timeWeek": 933,
-    "timeMonth": 962,
-    "timeYear": 962,
+    "time": 964,
+    "timeDay": 1020,
+    "timeWeek": 966,
+    "timeMonth": 964,
+    "timeYear": 964,
     "dailyMinutesDown": {}
   },
   {
@@ -68,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.90%",
-    "time": 654,
-    "timeDay": 694,
-    "timeWeek": 748,
-    "timeMonth": 654,
-    "timeYear": 654,
+    "time": 650,
+    "timeDay": 529,
+    "timeWeek": 738,
+    "timeMonth": 650,
+    "timeYear": 650,
     "dailyMinutesDown": {
       "2022-03-09": 20
     }
@@ -88,11 +86,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1737,
-    "timeDay": 438,
-    "timeWeek": 1023,
-    "timeMonth": 1737,
-    "timeYear": 1737,
+    "time": 1685,
+    "timeDay": 401,
+    "timeWeek": 1025,
+    "timeMonth": 1685,
+    "timeYear": 1685,
     "dailyMinutesDown": {}
   },
   {
@@ -106,11 +104,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1236,
-    "timeDay": 529,
-    "timeWeek": 879,
-    "timeMonth": 1236,
-    "timeYear": 1236,
+    "time": 1222,
+    "timeDay": 870,
+    "timeWeek": 947,
+    "timeMonth": 1222,
+    "timeYear": 1222,
     "dailyMinutesDown": {}
   },
   {
@@ -124,11 +122,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1488,
-    "timeDay": 1652,
-    "timeWeek": 1563,
-    "timeMonth": 1488,
-    "timeYear": 1488,
+    "time": 1477,
+    "timeDay": 1217,
+    "timeWeek": 1543,
+    "timeMonth": 1477,
+    "timeYear": 1477,
     "dailyMinutesDown": {}
   },
   {
@@ -142,11 +140,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 773,
-    "timeDay": 749,
-    "timeWeek": 806,
-    "timeMonth": 773,
-    "timeYear": 773,
+    "time": 759,
+    "timeDay": 579,
+    "timeWeek": 777,
+    "timeMonth": 759,
+    "timeYear": 759,
     "dailyMinutesDown": {}
   },
   {
@@ -160,11 +158,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 462,
-    "timeDay": 350,
-    "timeWeek": 466,
-    "timeMonth": 462,
-    "timeYear": 462,
+    "time": 465,
+    "timeDay": 508,
+    "timeWeek": 528,
+    "timeMonth": 465,
+    "timeYear": 465,
     "dailyMinutesDown": {}
   },
   {
@@ -178,11 +176,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 72,
-    "timeDay": 56,
-    "timeWeek": 78,
-    "timeMonth": 72,
-    "timeYear": 72,
+    "time": 69,
+    "timeDay": 36,
+    "timeWeek": 77,
+    "timeMonth": 69,
+    "timeYear": 69,
     "dailyMinutesDown": {}
   }
 ]
