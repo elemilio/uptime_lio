@@ -24,19 +24,19 @@
     "url": "https://espaidocs.bcn.cat",
     "icon": "https://espaidocs.bcn.cat/core/img/favicon.ico",
     "slug": "espaidocs-owncloud",
-    "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "98.88%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
-    "time": 2084,
-    "timeDay": 2463,
-    "timeWeek": 1621,
-    "timeMonth": 2084,
-    "timeYear": 2084,
+    "status": "up",
+    "uptime": "99.90%",
+    "uptimeDay": "98.44%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
+    "time": 2064,
+    "timeDay": 2137,
+    "timeWeek": 1582,
+    "timeMonth": 2064,
+    "timeYear": 2064,
     "dailyMinutesDown": {
-      "2022-03-18": 16
+      "2022-03-18": 23
     }
   },
   {
