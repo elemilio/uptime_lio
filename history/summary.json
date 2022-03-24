@@ -7,12 +7,12 @@
     "status": "up",
     "uptime": "99.88%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.65%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.88%",
     "time": 2417,
     "timeDay": 1764,
-    "timeWeek": 2430,
+    "timeWeek": 2394,
     "timeMonth": 2417,
     "timeYear": 2417,
     "dailyMinutesDown": {
@@ -82,18 +82,20 @@
     "url": "https://eldigital.barcelona.cat/admin-wp",
     "icon": "https://www.barcelona.cat/favicon.ico",
     "slug": "el-digital",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 1512,
     "timeDay": 105,
     "timeWeek": 711,
     "timeMonth": 1512,
     "timeYear": 1512,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-24": 1
+    }
   },
   {
     "name": "Districtes (Sant Martí)",
