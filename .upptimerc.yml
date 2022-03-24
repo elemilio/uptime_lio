@@ -6,32 +6,41 @@ sites:
   - name: bcn.cat
     url: https://bcn.cat
     icon: https://www.barcelona.cat/favicon.ico
+
   - name: Espaidocs (Owncloud)
     url: https://espaidocs.bcn.cat
     icon: https://espaidocs.bcn.cat/core/img/favicon.ico
+
   - name: Comunitats (HumHub)
     url: https://comunitats.bcn.cat/index.php?r=user%2Fauth%2Flogin
     icon: https://comunitats.bcn.cat/themes/HumHub/ico/favicon-32x32.png
+
   - name: GitLab DTI
     url: https://gitlab.dtibcn.cat/users/sign_in
     icon: https://gitlab.dtibcn.cat/assets/favicon-7901bd695fb93edb07975966062049829afb56cf11511236e61bcf425070e36e.png
+
   - name: El Digital
-    url: https://eldigital.barcelona.cat/admin-wp
+    url: https://eldigital.barcelona.cat/wp-admin
     icon: https://www.barcelona.cat/favicon.ico
+
   - name: Districtes (Sant Martí)
     url: https://ajuntament.barcelona.cat/santmarti/ca
     icon: https://www.barcelona.cat/favicon.ico
+
   - name: www.barcelona.cat (CONTINGUTS)
     url: https://continguts-www.barcelona.cat/ca
     icon: https://www.barcelona.cat/favicon.ico
+
   - name: API Casaments
     url: https://api-casaments.bcn.cat/node.json?type=disponibilitat%26field_districte=4%26load-entity-refs=node%2Cfile%2Ctaxonomy_term%26max-depth=1
     icon: https://www.barcelona.cat/favicon.ico
     expectedStatusCodes:
       - 403
+
   - name: BCN Cultura
     url: https://www.barcelona.cat/barcelonacultura/ca
     icon: https://www.barcelona.cat/favicon.ico
+
   - name: BCN El Digital
     url: https://eldigital.barcelona.cat/admin-wp
     icon: https://www.barcelona.cat/favicon.ico
@@ -63,5 +72,4 @@ status-website:
     updates: "0 3 * * *"
     uptime: "*/5 * * * *"
 
-# Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
