@@ -82,19 +82,19 @@
     "url": "https://eldigital.barcelona.cat/admin-wp",
     "icon": "https://www.barcelona.cat/favicon.ico",
     "slug": "el-digital",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 1512,
-    "timeDay": 105,
-    "timeWeek": 711,
-    "timeMonth": 1512,
-    "timeYear": 1512,
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "98.77%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
+    "time": 1504,
+    "timeDay": 664,
+    "timeWeek": 775,
+    "timeMonth": 1504,
+    "timeYear": 1504,
     "dailyMinutesDown": {
-      "2022-03-24": 1
+      "2022-03-24": 18
     }
   },
   {
