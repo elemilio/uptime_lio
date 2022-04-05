@@ -5,16 +5,16 @@
     "icon": "https://www.barcelona.cat/favicon.ico",
     "slug": "bcn-cat",
     "status": "up",
-    "uptime": "99.83%",
+    "uptime": "99.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.60%",
     "uptimeMonth": "99.83%",
-    "uptimeYear": "99.83%",
-    "time": 2445,
-    "timeDay": 2685,
-    "timeWeek": 2487,
-    "timeMonth": 2509,
-    "timeYear": 2445,
+    "uptimeYear": "99.84%",
+    "time": 2433,
+    "timeDay": 1625,
+    "timeWeek": 2491,
+    "timeMonth": 2485,
+    "timeYear": 2433,
     "dailyMinutesDown": {
       "2022-03-31": 41,
       "2022-03-17": 35
@@ -31,11 +31,11 @@
     "uptimeWeek": "99.60%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.88%",
-    "time": 1898,
-    "timeDay": 1147,
-    "timeWeek": 1536,
-    "timeMonth": 1925,
-    "timeYear": 1898,
+    "time": 1888,
+    "timeDay": 1232,
+    "timeWeek": 1472,
+    "timeMonth": 1753,
+    "timeYear": 1888,
     "dailyMinutesDown": {
       "2022-03-31": 40,
       "2022-03-18": 16
@@ -52,11 +52,11 @@
     "uptimeWeek": "99.72%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
-    "time": 955,
-    "timeDay": 821,
-    "timeWeek": 1038,
-    "timeMonth": 956,
-    "timeYear": 955,
+    "time": 951,
+    "timeDay": 673,
+    "timeWeek": 1006,
+    "timeMonth": 936,
+    "timeYear": 951,
     "dailyMinutesDown": {
       "2022-03-31": 28
     }
@@ -73,9 +73,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.96%",
     "time": 645,
-    "timeDay": 736,
-    "timeWeek": 677,
-    "timeMonth": 643,
+    "timeDay": 627,
+    "timeWeek": 683,
+    "timeMonth": 645,
     "timeYear": 645,
     "dailyMinutesDown": {
       "2022-03-09": 20
@@ -92,11 +92,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
-    "time": 2000,
-    "timeDay": 2705,
-    "timeWeek": 3283,
-    "timeMonth": 2000,
-    "timeYear": 2000,
+    "time": 2006,
+    "timeDay": 2245,
+    "timeWeek": 3326,
+    "timeMonth": 2097,
+    "timeYear": 2006,
     "dailyMinutesDown": {
       "2022-03-24": 18
     }
@@ -112,11 +112,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1082,
-    "timeDay": 1059,
-    "timeWeek": 987,
-    "timeMonth": 1082,
-    "timeYear": 1082,
+    "time": 1064,
+    "timeDay": 284,
+    "timeWeek": 985,
+    "timeMonth": 1069,
+    "timeYear": 1064,
     "dailyMinutesDown": {}
   },
   {
@@ -131,9 +131,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1453,
-    "timeDay": 1682,
-    "timeWeek": 1483,
-    "timeMonth": 1453,
+    "timeDay": 1449,
+    "timeWeek": 1514,
+    "timeMonth": 1442,
     "timeYear": 1453,
     "dailyMinutesDown": {}
   },
@@ -148,11 +148,11 @@
     "uptimeWeek": "99.73%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.93%",
-    "time": 737,
-    "timeDay": 874,
-    "timeWeek": 733,
-    "timeMonth": 737,
-    "timeYear": 737,
+    "time": 735,
+    "timeDay": 639,
+    "timeWeek": 745,
+    "timeMonth": 735,
+    "timeYear": 735,
     "dailyMinutesDown": {
       "2022-03-31": 28
     }
@@ -168,11 +168,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 516,
-    "timeDay": 293,
-    "timeWeek": 416,
-    "timeMonth": 516,
-    "timeYear": 516,
+    "time": 511,
+    "timeDay": 350,
+    "timeWeek": 422,
+    "timeMonth": 511,
+    "timeYear": 511,
     "dailyMinutesDown": {}
   },
   {
@@ -186,11 +186,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 299,
-    "timeDay": 633,
+    "time": 292,
+    "timeDay": 48,
     "timeWeek": 575,
-    "timeMonth": 299,
-    "timeYear": 299,
+    "timeMonth": 292,
+    "timeYear": 292,
     "dailyMinutesDown": {}
   }
 ]
