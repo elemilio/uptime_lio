@@ -87,10 +87,10 @@
     "url": "https://eldigital.barcelona.cat/wp-admin",
     "icon": "https://www.barcelona.cat/favicon.ico",
     "slug": "el-digital",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
     "time": 1996,
@@ -99,6 +99,7 @@
     "timeMonth": 2003,
     "timeYear": 1996,
     "dailyMinutesDown": {
+      "2022-04-06": 1,
       "2022-03-24": 18
     }
   },
