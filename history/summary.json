@@ -90,10 +90,10 @@
     "url": "https://eldigital.barcelona.cat/wp-admin",
     "icon": "https://www.barcelona.cat/favicon.ico",
     "slug": "el-digital",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.80%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.93%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.93%",
     "time": 2051,
@@ -102,6 +102,7 @@
     "timeMonth": 2178,
     "timeYear": 2051,
     "dailyMinutesDown": {
+      "2022-04-13": 2,
       "2022-04-06": 20,
       "2022-03-24": 18
     }
@@ -186,9 +187,9 @@
     "url": "https://eldigital.barcelona.cat/admin-wp",
     "icon": "https://www.barcelona.cat/favicon.ico",
     "slug": "bcn-el-digital",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -197,6 +198,8 @@
     "timeWeek": 806,
     "timeMonth": 486,
     "timeYear": 402,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-13": 0
+    }
   }
 ]
