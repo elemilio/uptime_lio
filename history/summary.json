@@ -4,10 +4,10 @@
     "url": "https://bcn.cat",
     "icon": "https://www.barcelona.cat/favicon.ico",
     "slug": "bcn-cat",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.89%",
     "time": 2500,
@@ -16,6 +16,7 @@
     "timeMonth": 2626,
     "timeYear": 2500,
     "dailyMinutesDown": {
+      "2022-05-03": 2,
       "2022-04-07": 21,
       "2022-03-31": 41,
       "2022-03-17": 35
@@ -26,10 +27,10 @@
     "url": "https://espaidocs.bcn.cat",
     "icon": "https://espaidocs.bcn.cat/core/img/favicon.ico",
     "slug": "espaidocs-owncloud",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.74%",
     "uptimeYear": "99.80%",
     "time": 1761,
@@ -38,6 +39,7 @@
     "timeMonth": 1489,
     "timeYear": 1761,
     "dailyMinutesDown": {
+      "2022-05-03": 1,
       "2022-04-07": 21,
       "2022-04-05": 93,
       "2022-03-31": 40,
@@ -49,10 +51,10 @@
     "url": "https://comunitats.bcn.cat/index.php?r=user%2Fauth%2Flogin",
     "icon": "https://comunitats.bcn.cat/themes/HumHub/ico/favicon-32x32.png",
     "slug": "comunitats-hum-hub",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.94%",
     "time": 929,
@@ -61,6 +63,7 @@
     "timeMonth": 876,
     "timeYear": 929,
     "dailyMinutesDown": {
+      "2022-05-03": 1,
       "2022-04-07": 21,
       "2022-03-31": 28
     }
@@ -148,9 +151,9 @@
     "url": "https://api-casaments.bcn.cat/node.json?type=disponibilitat%26field_districte=4%26load-entity-refs=node%2Cfile%2Ctaxonomy_term%26max-depth=1",
     "icon": "https://www.barcelona.cat/favicon.ico",
     "slug": "api-casaments",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.94%",
@@ -160,6 +163,7 @@
     "timeMonth": 747,
     "timeYear": 740,
     "dailyMinutesDown": {
+      "2022-05-03": 0,
       "2022-04-07": 20,
       "2022-03-31": 28
     }
