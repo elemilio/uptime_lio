@@ -1,7 +1,7 @@
 url: https://comunitats.bcn.cat/index.php?r=user%2Fauth%2Flogin
-status: down
-code: 503
-responseTime: 9993
-lastUpdated: 2022-05-15T12:44:35.399Z
+status: up
+code: 200
+responseTime: 1134
+lastUpdated: 2022-05-15T22:24:14.032Z
 startTime: Thu Mar 03 2022 18:55:33 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
