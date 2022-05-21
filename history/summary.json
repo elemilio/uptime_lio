@@ -133,19 +133,19 @@
     "url": "https://ajuntament.barcelona.cat/santmarti/ca",
     "icon": "https://www.barcelona.cat/favicon.ico",
     "slug": "districtes-sant-marti",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1108,
-    "timeDay": 1421,
-    "timeWeek": 1380,
-    "timeMonth": 1221,
-    "timeYear": 1108,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.38%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 1113,
+    "timeDay": 1471,
+    "timeWeek": 1397,
+    "timeMonth": 1231,
+    "timeYear": 1113,
     "dailyMinutesDown": {
-      "2022-05-21": 0
+      "2022-05-21": 9
     }
   },
   {
