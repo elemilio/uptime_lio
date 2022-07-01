@@ -31,11 +31,11 @@
     "icon": "https://espaidocs.bcn.cat/core/img/favicon.ico",
     "slug": "espaidocs-owncloud",
     "status": "up",
-    "uptime": "98.43%",
+    "uptime": "98.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.43%",
+    "uptimeYear": "98.44%",
     "time": 3072,
     "timeDay": 1359,
     "timeWeek": 1386,
@@ -199,9 +199,9 @@
     "url": "https://www.barcelona.cat/barcelonacultura/ca",
     "icon": "https://www.barcelona.cat/favicon.ico",
     "slug": "bcn-cultura",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -210,7 +210,9 @@
     "timeWeek": 652,
     "timeMonth": 716,
     "timeYear": 630,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-01": 0
+    }
   },
   {
     "name": "BCN El Digital",
