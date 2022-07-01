@@ -199,19 +199,19 @@
     "url": "https://www.barcelona.cat/barcelonacultura/ca",
     "icon": "https://www.barcelona.cat/favicon.ico",
     "slug": "bcn-cultura",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 630,
-    "timeDay": 600,
-    "timeWeek": 652,
-    "timeMonth": 716,
-    "timeYear": 630,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.93%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
+    "time": 875,
+    "timeDay": 15295,
+    "timeWeek": 4320,
+    "timeMonth": 1661,
+    "timeYear": 875,
     "dailyMinutesDown": {
-      "2022-07-01": 0
+      "2022-07-01": 15
     }
   },
   {
